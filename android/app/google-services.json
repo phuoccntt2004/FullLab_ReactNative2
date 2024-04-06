@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390891852022",
+    "project_id": "lab7-reactnative2",
+    "storage_bucket": "lab7-reactnative2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390891852022:android:25805e482c78e2af8c5cd7",
+        "android_client_info": {
+          "package_name": "com.lab_reactnative2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390891852022-hdfuj8h6c2vltq3i46bo3cl96gg0nvtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lab_reactnative2",
+            "certificate_hash": "e5970778985155ab1eff688c15fd34209b417493"
+          }
+        },
+        {
+          "client_id": "390891852022-gv26p0jvsbg300e1pl66fpscrjedp9sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGb6L889QMB61leRCl4REQ5QgdMH1B8r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390891852022-gv26p0jvsbg300e1pl66fpscrjedp9sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
